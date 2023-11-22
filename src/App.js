@@ -1,28 +1,28 @@
-// import logo from './lucho-logo.png';
-// import './App.css';
+ import logo from './lucho-logo.png';
+ import './App.css';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Welcome to your life, there's no turning back!
-//         </p>
-//         <a
-//           className="App-link"
-//           href="http://127.0.0.1:8000"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Manyari.Dev
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
+ function App() {
+   return (
+     <div className="App">
+       <header className="App-header">
+         <img src={logo} className="App-logo" alt="logo" />
+         <p>
+           Welcome to your life, there's no turning back!
+         </p>
+         <a
+           className="App-link"
+           href="http://127.0.0.1:8000"
+           target="_blank"
+           rel="noopener noreferrer"
+         >
+           Manyari.Dev
+         </a>
+       </header>
+     </div>
+   );
+ }
 
-// export default App;
+ export default App;
 
 
 // import React from "react";
@@ -49,14 +49,14 @@
 
 
 
-function App() {
+// function App() {
   
-  return ( 
-     <div> 
-<button onClick={ () => console.log('clicked') }> 
-  Click me
-</button>
-     </div>
-  )
-}
-export default App
+//   return ( 
+//      <div> 
+// <button onClick={ () => console.log('clicked') }> 
+//   Click me
+// </button>
+//      </div>
+//   )
+// }
+// export default App
