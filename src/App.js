@@ -5,9 +5,12 @@
    return (
      <div className="App">
        <header className="App-header">
+        <p>
+          Welcome to your life, there's no turning back!
+        </p>
          <img src={logo} className="App-logo" alt="logo" />
          <p>
-           Welcome to your life, there's no turning back!
+           The key to immortality is first living a life worth remembering.
          </p>
          <a
            className="App-link"
